@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@import "./font.css";
+/* @import "./scollbar.css"; */
+
+:root{
+    --primary-color: #3D3E3E;
+    --secondary-color: #4E4D4D;
+  
+    --background-color: #ffffff;
+
+    --surface-color: #D9D9D9;
+    --surface-color-light: #ECECEC;
+
+    --border-color: #848586;
+
+    --footer-background-color: #191B1D;
+
+    --error-color: #CC0000;
+    --success-color: #00CC55;
+    --dvh: 1vh;
+}
+body{
+    background-color: var(--background-color);;
+    color: var(--secondary-color);
+    width: 100%;
+}
+@supports (width: 100dvh) {
+
+    :root{
+        --dvh: 1dvh;
+    }
+    
+}
