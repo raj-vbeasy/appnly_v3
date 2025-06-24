@@ -27,16 +27,13 @@ export const landingContents = {
                 title: "Gmail to Gmail Transfer",
                 content: "Seamlessly moves emails, contacts, and labels between Gmail accounts."
             },
+            
             {
-                imageSrc: "/assets/solutions/envelope-open.svg",
-                title: "DKIM/ SPF/ DMARC Setup",
-                content: "Configure email authentication protocols to verify sender identity, reduce spam, and protect domains from phishing."
+              imageSrc: "/assets/solutions/server-stack.svg",
+              title: "Email Authentication & DNS Setup",
+              content: "Full configuration of DNS records including SPF, DKIM, DMARC, MX, TXT, and CNAME to secure email delivery, verify sender identity, and prevent spoofing or phishing attacks. raj"
             },
-            {
-                imageSrc: "/assets/solutions/server-stack.svg",
-                title: "DNS Settings",
-                content: "MX Record Setup, DKIM Configuration, SPF Setup, TXT Records, CNAME Records, DMARC Implementation."
-            },
+            
             {
                 imageSrc: "/assets/solutions/google-drive.png",
                 title: "Google Drive/Shared Drive Migrations",
@@ -233,10 +230,6 @@ export const landingContents = {
                             "Outlook",
                             "Microsoft Exchange",
                             "Microsoft 365 (Office 365)",
-                            "Zoho Mail",
-                            "Yahoo Mail",
-                            "ProtonMail",
-                            "Zimbra",
                             "Strato",
                             "IONOS",
                             "Rackspace",

@@ -2,7 +2,7 @@ export const footerContents = {
     logoSrc: "/assets/logo.png",
     contactInfo: {
         title: "Contact Info",
-        contacts: ["hello@appnly.com","+91 9313845200"]
+        contacts: ["hello@appnly.com","+91 931384520"]
     },
     discover: {
         title: "Discover",

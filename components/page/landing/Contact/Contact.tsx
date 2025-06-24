@@ -130,11 +130,10 @@ This inquiry was submitted via the website contact form.
                 `.trim()
             };
 
-            let result;
             if (publicKey) {
-                result = await emailjs.send(serviceId, templateId, templateParams, { publicKey });
+                await emailjs.send(serviceId, templateId, templateParams, { publicKey });
             } else {
-                result = await emailjs.send(serviceId, templateId, templateParams);
+                await emailjs.send(serviceId, templateId, templateParams);
             }
             setStatus('success');
             setFormData({}); // Reset form
