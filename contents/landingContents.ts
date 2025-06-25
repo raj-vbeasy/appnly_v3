@@ -40,12 +40,12 @@ export const landingContents = {
                 content: "From One Drive to Google Drive, From One Google Drive to another Drive Shared Drive Structure Creations"
             },
 
-
             {
-                imageSrc: "/assets/solutions/google-drive.png",
-                title: "New Service: Google Workspace Consultation",
-                content: "Workspace setup & organization structure, Security configuration (2-Step Verification, access roles), Admin console optimization, Privacy policy alignment, Best practice deployment, Ongoing policy & settings management"
-            },
+              imageSrc: "/assets/solutions/google-drive.png",
+              title: "New Service: Google Workspace Consultation",
+              content: "End-to-end strategic guidance to optimize your Google Workspace environment: setup, organization structure, admin console optimization, security, and policy management."
+            }
+
 
 
 
