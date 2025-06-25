@@ -41,11 +41,11 @@ export const landingContents = {
             },
 
             {
-{
-  imageSrc: "/assets/solutions/google-drive.png",
-  title: "New Service: Google Workspace Consultation",
-  content: "End-to-end strategic guidance to optimize your Google Workspace environment: setup, organization structure, admin console optimization, security, and policy management."
-}
+            {
+              imageSrc: "/assets/solutions/google-drive.png",
+              title: "New Service: Google Workspace Consultation",
+              content: "End-to-end strategic guidance to optimize your Google Workspace environment: setup, organization structure, admin console optimization, security, and policy management."
+            }
 
 
         ],
