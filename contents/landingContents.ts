@@ -48,24 +48,6 @@ export const landingContents = {
 }
 
 
-
-
-
-
-
-
-
-
-End-to-end strategic guidance to optimize your Google Workspace environment.
-Includes:
-Workspace setup & organization structure
-Security configuration (2-Step Verification, access roles)
-Admin console optimization
-Privacy policy alignment
-Best practice deployment
-Ongoing policy & settings management
-
-
         ],
         highlight: "Migrate from imap/ cpanel/ Godaddy/ Namecheap/ STRATO/ IONOS/ OTHERS"
     },
