@@ -31,7 +31,7 @@ export const landingContents = {
             {
               imageSrc: "/assets/solutions/server-stack.svg",
               title: "Email Authentication & DNS Setup",
-              content: "Full configuration of DNS records including SPF, DKIM, DMARC, MX, TXT, and CNAME to secure email delivery, verify sender identity, and prevent spoofing or phishing attacks. raj"
+              content: "Full configuration of DNS records including SPF, DKIM, DMARC, MX, TXT, and CNAME to secure email delivery, verify sender identity, and prevent spoofing or phishing attacks."
             },
             
             {
@@ -39,6 +39,32 @@ export const landingContents = {
                 title: "Google Drive/Shared Drive Migrations",
                 content: "From One Drive to Google Drive, From One Google Drive to another Drive Shared Drive Structure Creations"
             },
+
+
+            {
+                imageSrc: "/assets/solutions/google-drive.png",
+                title: "New Service: Google Workspace Consultation",
+                content: "Workspace setup & organization structure, Security configuration (2-Step Verification, access roles), Admin console optimization, Privacy policy alignment, Best practice deployment, Ongoing policy & settings management"
+            },
+
+
+
+
+
+
+
+
+
+End-to-end strategic guidance to optimize your Google Workspace environment.
+Includes:
+Workspace setup & organization structure
+Security configuration (2-Step Verification, access roles)
+Admin console optimization
+Privacy policy alignment
+Best practice deployment
+Ongoing policy & settings management
+
+
         ],
         highlight: "Migrate from imap/ cpanel/ Godaddy/ Namecheap/ STRATO/ IONOS/ OTHERS"
     },
